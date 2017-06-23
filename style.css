@@ -1,0 +1,192 @@
+*{
+    margin:0px;
+    font-family: sans-serif;
+}
+
+#wrapper{
+    width: 970px;
+    padding:0
+}
+
+#header img{
+    width: 100px;
+    margin-bottom: -30px;
+}
+.blue{
+    color: #6382aa;
+}
+
+.red{
+    color: red;
+}
+
+#header h1{
+    display: inline;
+}
+
+#header h2{
+    background-color: #6382aa;
+    padding:15px;
+    color: white;
+}
+
+#aside{
+    width: 18%;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center; 
+}
+
+#aside p{
+    margin: 10px auto;
+    text-align: left;
+    padding:5px 1px;     
+}
+
+#buttonblue{
+    background-color: #6689b6;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    height: 30px;
+    width:99%;
+    font-size: 12pt;
+    margin: 2px auto;
+}
+
+#buttonorange{
+    background-color: #d99e47;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    height: 30px;
+    width:99%;
+    font-size: 12pt;
+    margin: 2px auto;
+}
+
+#ad{
+    background-image: url("./images/ad_background.png");
+    width: 99%;
+    text-align: center;
+}
+
+#ad p{
+    color: white;
+    font-size: 14pt;
+    margin: 0;
+    padding: 20px 10px;
+    text-align: center;
+}
+
+#ad img{
+    width: 80px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+#ad button{
+    background-color: #7ac8dd;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    height: 25px;
+    width:80%;
+    font-size: 11pt;
+    margin-top:20px;
+    margin-bottom: 30px;
+}
+
+
+#main{
+    width: 74%;
+    margin-left:5%;
+    display: inline-block;
+}
+
+#contact{
+    padding-bottom: 10px;
+    border-bottom: 2px solid silver;
+}
+
+#home{
+    width: 20px;
+    vertical-align: top;
+    margin-top: 5px;   
+}
+
+#contact p{
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    top: 10px;
+}
+
+#phone{
+    width: 40px;
+    display: inline-block;
+    margin-left: 450px;
+    margin-top: 5px;  
+}
+
+#contactNo{
+    display: inline-block;
+    text-align: center;
+}
+
+#contactNo p{
+    font-size: 19pt;
+    position: realitive;
+    top: 0;
+}
+
+#maincontent h3{
+    color: #6689b6;
+    margin: 10px 0;
+}
+
+#maincontent ul li{
+    font-size:10pt;
+    margin: 10px;
+}
+
+#loop{
+    width: 40%;
+    margin: 0 auto;
+    display: block;
+}
+
+#maincontent ol li{
+    font-size:10pt;
+    margin: 10px;
+}
+
+#footer{
+    width: 99%;
+    border-top: 5px solid #4884dc;
+    border-left: 5px solid #4884dc;
+    border-right: 5px solid #4884dc;
+}
+
+#footer img{
+    width: 100px;
+    margin: 10px;
+}
+
+#big3{
+    display: inline-block;
+    width: 550px; 
+    vertical-align: top;   
+}
+
+#big3 p{
+    font-size: 9pt;
+    margin-bottom: 5px;
+}
